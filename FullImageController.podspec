@@ -24,8 +24,8 @@ this is first version for swift , it provide basefullimagecontroller,navigaitonF
 s.homepage         = 'http://www.feiniu.com'
   # s.screenshots     = 'www.example.com/screenshots_1', 'www.example.com/screenshots_2'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
-  s.author           = { 'Minyoung' => 'mingyang.su@feiniu.com' }
-  s.source           = { :svn => 'http://mingyang.su@svnserver01.fn.com/ios/fn-ios/ShareCode/MingyangShare/FullImageController_Swift'}
+  s.author           = { 'Minyoung' => 'minyoung361@gmail.com' }
+  s.source           = { :svn => 'https://github.com/MingyangBala/FullImageController'}
   # s.social_media_url = 'https://twitter.com/<TWITTER_USERNAME>'
 
   s.ios.deployment_target = '8.0'
